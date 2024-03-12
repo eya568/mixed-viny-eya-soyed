@@ -24,8 +24,8 @@ class SongController extends AbstractController
             ],
             3=>[
                 'id' => 3,
-                'name' => 'Evillaugh',
-                'url' => 'https://commondatastorage.googleapis.com/codeskulptor-assets/Evillaugh.ogg',
+                'name' => 'brrring',
+                'url' => 'https://commondatastorage.googleapis.com/codeskulptor-assets/week7-brrring.m4a',
             ],
             4=>[
                 'id' => 4,
