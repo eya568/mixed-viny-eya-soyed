@@ -12,7 +12,7 @@ class VinylController extends AbstractController{
         $tracks = [
             ['song' => 'Kangaroo_MusiQue', 'artist' => 'Kangaro'],
             ['song' => 'Sevish', 'artist' => 'SS'],
-            ['song' => 'Evillaugh', 'artist' => 'soundeffects'],
+            ['song' => 'brring', 'artist' => 'soundeffects'],
             ['song' => 'pazamodules', 'artist' => 'pang'],
             ['song' => 'race', 'artist' => 'riceracer'],
             ['song' => 'win', 'artist' => 'riceracer'],
